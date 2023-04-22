@@ -843,11 +843,9 @@ tags will be replaced.-->
   <td class=xl66 width=101 style='width:76pt'></td>
   <td class=xl66 width=101 style='width:76pt'></td>
  </tr>
-	
- <tr height=20 style='mso-height-source:userset;height:15.75pt'>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>09:30–09:45</td>
-  <a href="assets/pdfs/Rohli_et_al_NearTerm_Forecasting_Reservoir_Storage_LSTM.pdf">Physics-COnstrained Deep Learning for Downscaling</a> <a href="assets/pdfs/Rohli_et_al_Slides.pdf">(slides)</a></td>
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Constrained_Donwscaling_Harder.pdf">Physics-Constrained Deep Learning for Downscaling</a> <a href="assets/pdfs/constrained_ds_slides.pdf">(slides)</a></td>
   <td class=xl66 width=251 style='width:188pt'>Paula Harder (Fraunhofer ITWM)*;
   Venkatesh Ramesh (Mila); Alex Hernandez-Garcia (Mila - Quebec AI Institute);
   Qidong Yang (New York University); Prasanna Sattigeri (IBM Research); Daniela
